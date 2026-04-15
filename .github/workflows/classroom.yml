@@ -38,7 +38,7 @@ jobs:
           test-name: Run
           setup-command: ''
           command: "./main"
-          input: ''
+          # input: ''
           expected-output: |2-
 
             --- Linear Probing (skip=3) ---
